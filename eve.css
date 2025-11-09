@@ -1,0 +1,98 @@
+#chat [class="mes_text"] img {
+  display: block;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+/* default all positions to female image */
+.Erin {
+  aspect-ratio: 832 / 1216;
+  min-height: 200px;
+  max-height: 400px;
+  margin: 0 auto;
+  background: center / contain no-repeat url(https://files.sillie.st/9OVrp.png);
+  transition: none !important;
+  background-color: transparent !important;
+  border-radius: 8px;
+}
+.Erin.Erin.missionary { background-image: url(https://files.sillie.st/JTQ4C.png); }
+.Erin.Erin.missionary.conception { background-image: url(https://files.sillie.st/QRe2N.png); }
+.Erin.Erin.missionary.first-trimester { background-image: url(https://files.sillie.st/vIgBs.png); }
+.Erin.Erin.missionary.second-trimester { background-image: url(https://files.sillie.st/bS1wL.png); }
+.Erin.Erin.missionary.third-trimester { background-image: url(https://files.sillie.st/cSO96.png); }
+.Erin.Erin.missionary.anal { background-image: url(https://files.sillie.st/Ty2l2.png); }
+.Erin.Erin.missionary.anal.first-trimester { background-image: url(https://files.sillie.st/Yu9s8.png); }
+.Erin.Erin.missionary.anal.second-trimester { background-image: url(https://files.sillie.st/bSQGR.png); }
+.Erin.Erin.missionary.anal.third-trimester { background-image: url(https://files.sillie.st/cNnNV.png); }
+.Erin:is(.futa, .mtf).missionary { background-image: url(https://files.sillie.st/MWwHW.png); }
+.Erin.futa.missionary.conception { background-image: url(https://files.sillie.st/uvwHa.png); }
+.Erin.futa.missionary.first-trimester { background-image: url(https://files.sillie.st/EM705.png); }
+.Erin.futa.missionary.second-trimester { background-image: url(https://files.sillie.st/1BKuq.png); }
+.Erin.futa.missionary.third-trimester { background-image: url(https://files.sillie.st/cNuGY.png); }
+.Erin:is(.futa, .mtf).missionary.anal { background-image: url(https://files.sillie.st/aNFC6.png); }
+.Erin.futa.missionary.anal.first-trimester { background-image: url(https://files.sillie.st/4ZsT3.png); }
+.Erin.futa.missionary.anal.second-trimester { background-image: url(https://files.sillie.st/nXa4Z.png); }
+.Erin.futa.missionary.anal.third-trimester { background-image: url(https://files.sillie.st/ZbyoB.png); }
+.Erin.ftm.missionary { background-image: url(https://files.sillie.st/7teO5.png); }
+.Erin.ftm.missionary.conception { background-image: url(https://files.sillie.st/6afMe.png); }
+.Erin.ftm.missionary.first-trimester { background-image: url(https://files.sillie.st/lN74L.png); }
+.Erin.ftm.missionary.second-trimester { background-image: url(https://files.sillie.st/z9VnS.png); }
+.Erin.ftm.missionary.third-trimester { background-image: url(https://files.sillie.st/il2X2.png); }
+.Erin.ftm.missionary.anal { background-image: url(https://files.sillie.st/iv0sO.png); }
+.Erin.ftm.missionary.anal.first-trimester { background-image: url(https://files.sillie.st/mcEiQ.png); }
+.Erin.ftm.missionary.anal.second-trimester { background-image: url(https://files.sillie.st/b1ogk.png); }
+.Erin.ftm.missionary.anal.third-trimester { background-image: url(https://files.sillie.st/sb4OR.png); }
+.Erin.male.missionary.Erin { background-image: url(https://files.sillie.st/Wem1m.png); }
+.Erin.Erin.doggy { background-image: url(https://files.sillie.st/I1Ec3.png); }
+.Erin.Erin.doggy.conception { background-image: url(https://files.sillie.st/VuwGl.png); }
+.Erin.Erin.doggy.third-trimester { background-image: url(https://files.sillie.st/BKufr.png); }
+.Erin.Erin.doggy.anal { background-image: url(https://files.sillie.st/ScVZZ.png); }
+.Erin.Erin.doggy.anal.third-trimester { background-image: url(https://files.sillie.st/fJAI2.png); }
+.Erin:is(.futa, .mtf).doggy { background-image: url(https://files.sillie.st/5t4nN.png); }
+.Erin.futa.doggy.conception { background-image: url(https://files.sillie.st/gkkpA.png); }
+.Erin.ftm.doggy { background-image: url(https://files.sillie.st/hn1J9.png); }
+.Erin.ftm.doggy.conception { background-image: url(https://files.sillie.st/VXpSQ.png); }
+.Erin.ftm.doggy.third-trimester { background-image: url(https://files.sillie.st/JG2hJ.png); }
+.Erin.ftm.doggy.anal { background-image: url(https://files.sillie.st/TtBh4.png); }
+.Erin.ftm.doggy.anal.third-trimester { background-image: url(https://files.sillie.st/CYPpX.png); }
+.Erin.male.doggy.Erin { background-image: url(https://files.sillie.st/kDqBU.png); }
+.Erin.Erin.cowgirl { background-image: url(https://files.sillie.st/NabSW.png); }
+.Erin.Erin.cowgirl.conception { background-image: url(https://files.sillie.st/jJB2x.png); }
+.Erin.Erin.cowgirl.first-trimester { background-image: url(https://files.sillie.st/ZoqP8.png); }
+.Erin.Erin.cowgirl.second-trimester { background-image: url(https://files.sillie.st/UqPDI.png); }
+.Erin.Erin.cowgirl.third-trimester { background-image: url(https://files.sillie.st/Dwpq7.png); }
+.Erin.Erin.cowgirl.anal { background-image: url(https://files.sillie.st/UkZCt.png); }
+.Erin.Erin.cowgirl.anal.first-trimester { background-image: url(https://files.sillie.st/tr1eW.png); }
+.Erin.Erin.cowgirl.anal.second-trimester { background-image: url(https://files.sillie.st/CSbxC.png); }
+.Erin.Erin.cowgirl.anal.third-trimester { background-image: url(https://files.sillie.st/JBuOP.png); }
+.Erin:is(.futa, .mtf).cowgirl { background-image: url(https://files.sillie.st/jpBTu.png); }
+.Erin.futa.cowgirl.conception { background-image: url(https://files.sillie.st/lAQuN.png); }
+.Erin.futa.cowgirl.first-trimester { background-image: url(https://files.sillie.st/eYPdR.png); }
+.Erin.futa.cowgirl.second-trimester { background-image: url(https://files.sillie.st/dathG.png); }
+.Erin.futa.cowgirl.third-trimester { background-image: url(https://files.sillie.st/o73Md.png); }
+.Erin:is(.futa, .mtf).cowgirl.anal { background-image: url(https://files.sillie.st/4H3Ef.png); }
+.Erin.futa.cowgirl.anal.first-trimester { background-image: url(https://files.sillie.st/syHBo.png); }
+.Erin.futa.cowgirl.anal.second-trimester { background-image: url(https://files.sillie.st/be0Ih.png); }
+.Erin.futa.cowgirl.anal.third-trimester { background-image: url(https://files.sillie.st/tGYqg.png); }
+.Erin.ftm.cowgirl { background-image: url(https://files.sillie.st/tEod4.png); }
+.Erin.ftm.cowgirl.conception { background-image: url(https://files.sillie.st/wupGq.png); }
+.Erin.ftm.cowgirl.first-trimester { background-image: url(https://files.sillie.st/hn0qJ.png); }
+.Erin.ftm.cowgirl.second-trimester { background-image: url(https://files.sillie.st/fn4Cm.png); }
+.Erin.ftm.cowgirl.third-trimester { background-image: url(https://files.sillie.st/GrT61.png); }
+.Erin.ftm.cowgirl.anal { background-image: url(https://files.sillie.st/44k7e.png); }
+.Erin.ftm.cowgirl.anal.first-trimester { background-image: url(https://files.sillie.st/5nN9g.png); }
+.Erin.ftm.cowgirl.anal.second-trimester { background-image: url(https://files.sillie.st/CfoqK.png); }
+.Erin.ftm.cowgirl.anal.third-trimester { background-image: url(https://files.sillie.st/11iHq.png); }
+.Erin.male.cowgirl.Erin { background-image: url(https://files.sillie.st/TIADH.png); }
+.Erin.Erin.reverse-cowgirl { background-image: url(https://files.sillie.st/qe77L.png); }
+.Erin.Erin.reverse-cowgirl.conception { background-image: url(https://files.sillie.st/G28Co.png); }
+.Erin.Erin.reverse-cowgirl.third-trimester { background-image: url(https://files.sillie.st/yW1Np.png); }
+.Erin.Erin.reverse-cowgirl.anal { background-image: url(https://files.sillie.st/zgxPr.png); }
+.Erin.Erin.reverse-cowgirl.anal.third-trimester { background-image: url(https://files.sillie.st/tHf24.png); }
+.Erin:is(.futa, .mtf).reverse-cowgirl { background-image: url(https://files.sillie.st/zTwfH.png); }
+.Erin:is(.futa, .mtf).reverse-cowgirl.anal { background-image: url(https://files.sillie.st/LXyt9.png); }
+.Erin.ftm.reverse-cowgirl { background-image: url(https://files.sillie.st/kCM14.png); }
+.Erin.ftm.reverse-cowgirl.conception { background-image: url(https://files.sillie.st/l8TL3.png); }
+.Erin.ftm.reverse-cowgirl.third-trimester { background-image: url(https://files.sillie.st/oOy9R.png); }
+.Erin.ftm.reverse-cowgirl.anal { background-image: url(https://files.sillie.st/5g9nf.png); }
+.Erin.ftm.reverse-cowgirl.anal.third-trimester { background-image: url(https://files.sillie.st/dT2gd.png); }
+.Erin.male.reverse-cowgirl.Erin { background-image: url(https://files.sillie.st/Mfbxp.png); }
